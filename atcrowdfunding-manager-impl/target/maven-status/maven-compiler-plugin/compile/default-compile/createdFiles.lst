@@ -1,0 +1,4 @@
+com\atli\atcrowdfunding\manager\service\impl\TestServiceImpl.class
+com\atli\atcrowdfunding\manager\controller\UserController.class
+com\atli\atcrowdfunding\manager\controller\TestController.class
+com\atli\atcrowdfunding\manager\service\impl\UserServiceImpl.class
