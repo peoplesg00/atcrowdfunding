@@ -96,7 +96,7 @@
                     | <a rel="nofollow" href="http://www.atguigu.com">联系我们</a>
                 </div>
                 <div class="copyRight">
-                    Copyright ?2017-2017 atguigu.com 版权所有
+                    Copyright ?2035-2035 atguigu.com 版权所有
                 </div>
             </div>
 

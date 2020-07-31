@@ -149,6 +149,8 @@
             return;
 
             /*$("#advertForm").attr("action", "
+
+
             ${APP_PATH}/advert/doAdd.do");
             $("#advertForm").submit();*/
         });

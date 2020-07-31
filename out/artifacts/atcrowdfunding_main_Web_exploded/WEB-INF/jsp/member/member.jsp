@@ -159,7 +159,7 @@
                     | <a rel="nofollow" href="http://www.atguigu.com">联系我们</a>
                 </div>
                 <div class="copyRight">
-                    Copyright ?2017-2017atguigu.com 版权所有
+                    Copyright ?2035-2035atguigu.com 版权所有
                 </div>
             </div>
 
@@ -209,7 +209,7 @@
         xAxis: {
             type: 'category',
             boundaryGap: false,
-            data: ['2017-05-16', '2017-05-17', '2017-05-18', '2017-05-19', '2017-05-20', '2017-05-21', '2017-05-22']
+            data: ['2035-05-16', '2035-05-17', '2035-05-18', '2035-05-19', '2035-05-20', '2035-05-21', '2035-05-22']
         },
         yAxis: {
             type: 'value',

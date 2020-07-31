@@ -60761,7 +60761,7 @@
                      * range info
                      *
                      * @private
-                     * @param  {Array} range range ['2017-01-01', '2017-07-08']
+                     * @param  {Array} range range ['2035-01-01', '2035-07-08']
                      * @return {Object}       obj
                      */
                     _getRangeInfo: function (range) {
